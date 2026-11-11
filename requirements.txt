@@ -1,0 +1,5 @@
+# Dependências do projeto (instale com: pip install -r requirements.txt)
+pygame>=2.5.0        # janela, entrada e carregamento de imagens
+PyOpenGL>=3.1.7      # ligação Python <-> OpenGL (se houver erro de arrays com NumPy 2.x: atualize o PyOpenGL ou use numpy<2)
+numpy>=1.24          # matrizes e dados dos vértices
+Pillow>=10.0         # apenas para tools/gerar_texturas.py e para os testes gráficos
