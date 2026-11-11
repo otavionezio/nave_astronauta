@@ -6,22 +6,15 @@ Cena 3D animada em **Python + Pygame + PyOpenGL** sobre o framework do livro
 
 ![visão geral](docs/img/01_visao_geral_estabilizacao.png)
 
-> **Leia primeiro:** a seção [Estado de validação](#estado-de-validação-o-que-foi-e-o-que-não-foi-testado).
-> O projeto foi desenvolvido e testado num ambiente **sem Pygame e sem PyOpenGL instalados**
-> (por isso a validação usou uma camada de teste própria sobre Mesa). **O grupo precisa rodar
-> `python main.py` na sua máquina e cumprir a lista manual de `docs/PLANO_DE_TESTES.md` antes de apresentar.**
-
 ---
 
 ## 1. Integrantes e temas
 
 | Integrante | Tema sorteado | Contribuição principal |
 |---|---|---|
-| `[PREENCHER: nome 1]` | `[PREENCHER: Nave espacial (tema 6) ou Astronauta estilizado (tema 19)]` | `[PREENCHER]` |
-| `[PREENCHER: nome 2]` | `[PREENCHER: o outro tema]` | `[PREENCHER]` |
+| `Otávio Henrique` | `Nave Espacial` | `Código` |
+| `Marcus Tadeu` | `Astronauta` | `Código` |
 
-Temas da dupla (enunciado): **6 – Nave espacial** e **19 – Astronauta estilizado**. Quem recebeu cada
-tema, os nomes e as contribuições individuais **não foram informados**: preencham os campos acima e a seção 12.
 
 ## 2. Descrição do cenário
 
